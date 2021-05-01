@@ -1,4 +1,4 @@
-London code of conduct
+Code of Conduct
 ======================
 
 The organizers are committed to making this meeting productive and
@@ -10,8 +10,8 @@ form. Please follow these guidelines:
 - Behave professionally. Harassment and sexist, racist, or
 exclusionary comments or jokes are not appropriate. Harassment
 includes sustained disruption of talks or other events,
-inappropriate physical contact, sexual attention or innuendo,
-deliberate intimidation, stalking, and photography or recording of
+sexual attention or innuendo, deliberate intimidation, stalking,
+and photography (screen capture) or recording of
 an individual without consent. It also includes offensive comments
 related to gender, sexual orientation, disability, physical
 appearance, body size, race or religion.
@@ -21,9 +21,8 @@ language and imagery is not appropriate.
 - Be kind to others. Do not insult or put down other attendees.
 
 Participants asked to stop any inappropriate behaviour are expected
-to comply immediately. Attendees violating these rules may be asked
-to leave the event at the sole discretion of the organizers without
-a refund of any charge.
+to comply immediately. Attendees violating these rules may be
+excluded from the event at the sole discretion of the organisers.
 
 Any participant who wishes to report a violation of this policy is
-asked to speak, in confidence, to (contact details).
+asked to contact the organisers by e-mail to julian.adamek@uzh.ch.
